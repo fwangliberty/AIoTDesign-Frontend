@@ -22,7 +22,7 @@ You can download the files to start this project. However, the repository does n
   <li>A student can register for a class and read lessons.</li>
 </ul>
 <p>*Work in progress.</p>
-<i>This app was build for studying purposes only.</i>
+<i>We need to adopt this frontend to our AIoTDesign, and change the names and content of this elearning system.</i>
 
  
 
