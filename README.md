@@ -3,8 +3,10 @@
 
 <h4> Overview </h4>
 <p> This frontend is based on the book "Learn Node.js by Building 6 Projects". The code from the book is hosted on GitHub at https://github.com/PacktPublishing/Learn-Node.js-by-Building-6-Projects. 
-You can download the files to start this project. However, the repository does not contain all files, and you have to add the missing files as you follow the instructions from the textbook. Please use the PDF file for the construction steps.
+You can download the files to start this project. However, the repository does not contain all files (elearning folder), and you have to add the missing files as you follow the instructions from the textbook. Please use the PDF file for the construction steps.
 </p>
+
+<h4> Another similar frontend is on GitHub at https://github.com/Luci-Lawless/node-lms, which has much better user interface than this one. </h4>
 
 <h4>Build with:</h4>
 <ul>
